@@ -13,7 +13,7 @@ create table products (
 );
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
-VALUES (2353, "chapstick", "beauty", 2.00, 1000), 
+VALUES (23530, "chapstick", "beauty", 2.00, 1000), 
 (23784,"nail polish remover", "beauty", 3.00, 500), 
 (23982,"eye cream", "beauty", 25.00, 100), 
 (23201,"bronzer", "beauty", 15.00, 200), 
